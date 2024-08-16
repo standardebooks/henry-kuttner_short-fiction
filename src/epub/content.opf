@@ -128,14 +128,36 @@
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/crypt-city-of-the-deathless-one.xhtml" id="crypt-city-of-the-deathless-one.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/dont-look-now.xhtml" id="dont-look-now.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/dreams-end.xhtml" id="dreams-end.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/the-crystal-circe.xhtml" id="the-crystal-circe.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-ego-machine.xhtml" id="the-ego-machine.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-eyes-of-thar.xhtml" id="the-eyes-of-thar.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-secret-of-kralitz.xhtml" id="the-secret-of-kralitz.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/thunder-in-the-void.xhtml" id="thunder-in-the-void.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/war-gods-of-the-void.xhtml" id="war-gods-of-the-void.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/what-hath-me.xhtml" id="what-hath-me.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/where-the-world-is-quiet.xhtml" id="where-the-world-is-quiet.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="the-secret-of-kralitz.xhtml"/>
+		<itemref idref="the-crystal-circe.xhtml"/>
+		<itemref idref="war-gods-of-the-void.xhtml"/>
+		<itemref idref="thunder-in-the-void.xhtml"/>
+		<itemref idref="crypt-city-of-the-deathless-one.xhtml"/>
+		<itemref idref="the-eyes-of-thar.xhtml"/>
+		<itemref idref="what-hath-me.xhtml"/>
+		<itemref idref="dreams-end.xhtml"/>
+		<itemref idref="dont-look-now.xhtml"/>
+		<itemref idref="the-ego-machine.xhtml"/>
+		<itemref idref="where-the-world-is-quiet.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
