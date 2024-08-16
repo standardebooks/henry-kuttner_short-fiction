@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="crypt-city-of-the-deathless-one.xhtml">
+		<ignore>
+			<code>t-057</code>
+			<code>y-009</code>
+			<reason>Intentional soft start to the sentence.</reason>
+		</ignore>
+	</file>
+	<file path="the-crystal-circe.xhtml">
+		<ignore>
+			<code>t-030</code>
+			<reason>“SOS” is an initialism without full stops.</reason>
+		</ignore>
+	</file>
+	<file path="the-eyes-of-thar.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Run-on sentence is OK here.</reason>
+		</ignore>
+	</file>
+	<file path="thunder-in-the-void.xhtml">
+		<ignore>
+			<code>t-030</code>
+			<code>t-032</code>
+			<reason>“SOS” is an initialism without full stops.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
