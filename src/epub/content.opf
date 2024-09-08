@@ -37,9 +37,11 @@
 		<meta property="se:subject">Horror</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A collection of short fiction by Henry Kuttner, ordered by date of original publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/henry-kuttner"&gt;Henry Kuttner&lt;/a&gt; was a prolific science fiction and horror author. His first story was published in 1936, and from there he wrote, under a set of pen names, a large number of short stories, novels and comic strips, up until his early death in 1958. A lot of his work was penned in collaboration with his wife &lt;abbr&gt;C. L.&lt;/abbr&gt; Moore, but she was only sometimes directly credited.&lt;/p&gt;
+			&lt;p&gt;Kuttner was a friend of &lt;a href="https://standardebooks.org/ebooks/h-p-lovecraft"&gt;&lt;abbr&gt;H. P.&lt;/abbr&gt; Lovecraft&lt;/a&gt;—he wrote a set of stories specifically set in the “Cthulhu Mythos”—and while he was primarily a science fiction writer there is a streak of Lovecraftian darkness running through the majority of his work. Even in his most optimistic tales, the characters often end up with more problems than bargained with, or at least finish feeling no happier than they had been.&lt;/p&gt;
+			&lt;p&gt;The short stories in this collection are those currently known to have passed into the &lt;abbr&gt;U.S.&lt;/abbr&gt; public domain, arranged in order of publication.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<!-- The Secret of Kralitz, October 1936 -->
@@ -73,7 +75,6 @@
 		<!-- Where the World is Quiet, May 1954 -->
 		<dc:source>https://www.gutenberg.org/ebooks/31207</dc:source>
 		<dc:source>https://archive.org/details/Fantastic_Universe_v01n06_1954-05</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Henry_Kuttner#Partial_bibliography</meta>
