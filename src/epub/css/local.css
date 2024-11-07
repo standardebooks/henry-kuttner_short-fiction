@@ -35,8 +35,8 @@ p span.i2{
 	text-indent: -1em;
 }
 
-[epub|type~="contributors"] {
-  font-style: italic;
+[epub|type~="contributors"]{
+	font-style: italic;
 }
 
 #atomic blockquote{
