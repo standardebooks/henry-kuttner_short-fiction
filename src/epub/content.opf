@@ -99,8 +99,8 @@
 		<dc:contributor id="transcriber-4">Sankar Viswanathan</dc:contributor>
 		<meta property="file-as" refines="#transcriber-4">Viswanathan, Sankar</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-5">The Online Distributed Proofreaders Canada</dc:contributor>
-		<meta property="file-as" refines="#transcriber-5">Online Distributed Proofreaders Canada, The</meta>
+		<dc:contributor id="transcriber-5">Distributed Proofreaders Canada</dc:contributor>
+		<meta property="file-as" refines="#transcriber-5">Distributed Proofreaders Canada</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#transcriber-5">https://www.pgdpcanada.net</meta>
 		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-6">The Online Distributed Proofreading Team</dc:contributor>
