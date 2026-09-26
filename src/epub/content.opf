@@ -32,10 +32,106 @@
 		<meta property="file-as" refines="#title">Short Fiction</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<dc:subject id="subject-2">Short stories</dc:subject>
+		<dc:subject id="subject-3">Horror tales</dc:subject>
+		<dc:subject id="subject-4">Salem (Mass.)--Fiction</dc:subject>
+		<dc:subject id="subject-5">Rats--Fiction</dc:subject>
+		<dc:subject id="subject-6">Cemeteries--Fiction</dc:subject>
+		<dc:subject id="subject-7">Blessing and cursing--Fiction</dc:subject>
+		<dc:subject id="subject-8">Fantasy fiction</dc:subject>
+		<dc:subject id="subject-9">Life on other planets--Fiction</dc:subject>
+		<dc:subject id="subject-10">Vampires--Fiction</dc:subject>
+		<dc:subject id="subject-11">Man-woman relationships--Fiction</dc:subject>
+		<dc:subject id="subject-12">Motion picture industry--Fiction</dc:subject>
+		<dc:subject id="subject-13">Hollywood (Los Angeles, Calif.)--Fiction</dc:subject>
+		<dc:subject id="subject-14">Atlantis (Legendary place)--Fiction</dc:subject>
+		<dc:subject id="subject-15">Male friendship--Fiction</dc:subject>
+		<dc:subject id="subject-16">Storytelling--Fiction</dc:subject>
+		<dc:subject id="subject-17">Human-alien encounters--Fiction</dc:subject>
+		<dc:subject id="subject-18">Asteroids--Fiction</dc:subject>
+		<dc:subject id="subject-19">Meteorites--Fiction</dc:subject>
+		<dc:subject id="subject-20">Venus (Planet)--Fiction</dc:subject>
+		<dc:subject id="subject-21">Detectives--Fiction</dc:subject>
+		<dc:subject id="subject-22">Brothers--Fiction</dc:subject>
+		<dc:subject id="subject-23">Jewel thieves--Fiction</dc:subject>
+		<dc:subject id="subject-24">Space flight--Fiction</dc:subject>
+		<dc:subject id="subject-25">Ganymede (Satellite)--Fiction</dc:subject>
+		<dc:subject id="subject-26">Mars (Planet)--Fiction</dc:subject>
+		<dc:subject id="subject-27">Physicians--Fiction</dc:subject>
+		<dc:subject id="subject-28">Psychological fiction</dc:subject>
+		<dc:subject id="subject-29">Dreams--Fiction</dc:subject>
+		<dc:subject id="subject-30">Experiments--Fiction</dc:subject>
+		<dc:subject id="subject-31">Martians--Fiction</dc:subject>
+		<dc:subject id="subject-32">Earth (Planet)--Fiction</dc:subject>
+		<dc:subject id="subject-33">Bars (Drinking establishments)--Fiction</dc:subject>
+		<dc:subject id="subject-34">Peru--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85121813</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85062084</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008116848</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">Unknown</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2009118624</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh2007102047</meta>
+		<meta property="authority" refines="#subject-8">LCSH</meta>
+		<meta property="term" refines="#subject-8">sh85047114</meta>
+		<meta property="authority" refines="#subject-9">LCSH</meta>
+		<meta property="term" refines="#subject-9">sh2008106912</meta>
+		<meta property="authority" refines="#subject-10">LCSH</meta>
+		<meta property="term" refines="#subject-10">sh2008113166</meta>
+		<meta property="authority" refines="#subject-11">LCSH</meta>
+		<meta property="term" refines="#subject-11">sh2008107175</meta>
+		<meta property="authority" refines="#subject-12">LCSH</meta>
+		<meta property="term" refines="#subject-12">sh2008107236</meta>
+		<meta property="authority" refines="#subject-13">LCSH</meta>
+		<meta property="term" refines="#subject-13">sh2008115351</meta>
+		<meta property="authority" refines="#subject-14">LCSH</meta>
+		<meta property="term" refines="#subject-14">sh2007101527</meta>
+		<meta property="authority" refines="#subject-15">LCSH</meta>
+		<meta property="term" refines="#subject-15">sh2008107166</meta>
+		<meta property="authority" refines="#subject-16">LCSH</meta>
+		<meta property="term" refines="#subject-16">sh2008111147</meta>
+		<meta property="authority" refines="#subject-17">LCSH</meta>
+		<meta property="term" refines="#subject-17">sh2008105650</meta>
+		<meta property="authority" refines="#subject-18">LCSH</meta>
+		<meta property="term" refines="#subject-18">Unknown</meta>
+		<meta property="authority" refines="#subject-19">LCSH</meta>
+		<meta property="term" refines="#subject-19">Unknown</meta>
+		<meta property="authority" refines="#subject-20">LCSH</meta>
+		<meta property="term" refines="#subject-20">Unknown</meta>
+		<meta property="authority" refines="#subject-21">LCSH</meta>
+		<meta property="term" refines="#subject-21">Unknown</meta>
+		<meta property="authority" refines="#subject-22">LCSH</meta>
+		<meta property="term" refines="#subject-22">sh2007101952</meta>
+		<meta property="authority" refines="#subject-23">LCSH</meta>
+		<meta property="term" refines="#subject-23">sh2008106062</meta>
+		<meta property="authority" refines="#subject-24">LCSH</meta>
+		<meta property="term" refines="#subject-24">sh2008111360</meta>
+		<meta property="authority" refines="#subject-25">LCSH</meta>
+		<meta property="term" refines="#subject-25">Unknown</meta>
+		<meta property="authority" refines="#subject-26">LCSH</meta>
+		<meta property="term" refines="#subject-26">sh2008115817</meta>
+		<meta property="authority" refines="#subject-27">LCSH</meta>
+		<meta property="term" refines="#subject-27">sh2008108880</meta>
+		<meta property="authority" refines="#subject-28">LCSH</meta>
+		<meta property="term" refines="#subject-28">sh85108438</meta>
+		<meta property="authority" refines="#subject-29">LCSH</meta>
+		<meta property="term" refines="#subject-29">sh2008102340</meta>
+		<meta property="authority" refines="#subject-30">LCSH</meta>
+		<meta property="term" refines="#subject-30">Unknown</meta>
+		<meta property="authority" refines="#subject-31">LCSH</meta>
+		<meta property="term" refines="#subject-31">Unknown</meta>
+		<meta property="authority" refines="#subject-32">LCSH</meta>
+		<meta property="term" refines="#subject-32">Unknown</meta>
+		<meta property="authority" refines="#subject-33">LCSH</meta>
+		<meta property="term" refines="#subject-33">sh2007101895</meta>
+		<meta property="authority" refines="#subject-34">LCSH</meta>
+		<meta property="term" refines="#subject-34">sh2008116557</meta>
 		<meta property="schema:genre">Horror</meta>
 		<meta property="schema:genre">Science Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
@@ -47,14 +143,35 @@
 			&lt;p&gt;The short stories in this collection are those currently known to have passed into the U.S. public domain, arranged in order of publication.&lt;/p&gt;
 		</dc:description>
 		<dc:language>en-US</dc:language>
+		<!-- The Graveyard Rats, March 1936 -->
+		<dc:source>https://www.gutenberg.org/ebooks/79279</dc:source>
+		<dc:source>https://archive.org/details/weird-tales-1936-03-at-lpm_20230508_0145</dc:source>
 		<!-- The Secret of Kralitz, October 1936 -->
 		<dc:source>https://www.gutenberg.org/ebooks/32584</dc:source>
 		<dc:source>https://archive.org/details/Weird_Tales_v28n03_1936-10</dc:source>
+		<!-- It Walks by Night, December 1936 -->
+		<dc:source>https://www.gutenberg.org/ebooks/79641</dc:source>
+		<dc:source>https://archive.org/details/WeirdTalesV28N05193612</dc:source>
+		<!-- The Eater of Souls, January 1937 -->
+		<dc:source>https://www.gutenberg.org/ebooks/75363</dc:source>
+		<dc:source>https://archive.org/details/weird-tales-v-29-n-01-1937-01</dc:source>
+		<!-- I, the Vampire, February 1937 -->
+		<dc:source>https://www.gutenberg.org/ebooks/79638</dc:source>
+		<dc:source>https://archive.org/details/WeirdTalesV29N02193702</dc:source>
+		<!-- The Salem Horror, May 1937 -->
+		<dc:source>https://www.gutenberg.org/ebooks/76108</dc:source>
+		<dc:source>https://archive.org/details/WeirdTalesV29N05193705</dc:source>
+		<!-- Dragon Moon, January 1941 -->
+		<dc:source>https://www.gutenberg.org/ebooks/75233</dc:source>
+		<dc:source>https://archive.org/details/Weird_Tales_v35n07_1941-01</dc:source>
 		<!-- The Crystal Circe, June 1942 (Astonishing Stories, no scans seemingly available) -->
 		<dc:source>https://www.gutenberg.org/ebooks/68726</dc:source>
 		<!-- War-Gods of the Void, Fall 1942 -->
 		<dc:source>https://www.gutenberg.org/ebooks/61978</dc:source>
 		<dc:source>https://archive.org/details/Planet_Stories_v01n12_1942-Fa_sas</dc:source>
+		<!-- Secret of the Earth Star, August 1942 -->
+		<dc:source>https://www.gutenberg.org/ebooks/75218</dc:source>
+		<dc:source>https://archive.org/details/Amazing_Stories_v16n08_1942-08_Ziff-Davis</dc:source>
 		<!-- Thunder in the Void, October 1942 (Astonishing Stories, no scans seemingly available) -->
 		<dc:source>https://www.gutenberg.org/ebooks/68253</dc:source>
 		<!-- Crypt-City of the Deathless One, Winter 1943 -->
@@ -125,6 +242,11 @@
 		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
 		<link href="https://alexcabal.com/" refines="#producer-2" rel="schema:url"/>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
+		<dc:contributor id="producer-3">Hendrik Kaiber</dc:contributor>
+		<meta property="file-as" refines="#producer-3">Kaiber, Hendrik</meta>
+		<meta property="schema:alternateName" refines="#producer-3">Hendrik de Wetterle Bonow Kaiber</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">mrk</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
