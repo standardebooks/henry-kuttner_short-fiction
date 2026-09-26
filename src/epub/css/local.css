@@ -55,3 +55,8 @@ p span.i2{
 	padding-left: 3em;
 	text-indent: -1em;
 }
+
+/* Nested italic in "Dragon Moon" */
+#dragon-moon p span em{
+	font-style: normal;
+}
