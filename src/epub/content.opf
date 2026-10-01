@@ -206,6 +206,12 @@
 		<link href="https://en.wikipedia.org/wiki/Henry_Kuttner" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50061631.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<dc:contributor id="contributor">C. L. Moore</dc:contributor>
+		<meta property="file-as" refines="#contributor">Moore, C. L.</meta>
+		<meta property="schema:alternateName" refines="#contributor">Catherine Lucille Moore</meta>
+		<link href="https://en.wikipedia.org/wiki/C._L._Moore" refines="#contributor" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n50028286.html" refines="#contributor" rel="schema:sameAs"/>
+		<meta property="role" refines="#contributor" scheme="marc:relators">ctb</meta>
 		<dc:contributor id="artist">Paul Gaulois</dc:contributor>
 		<meta property="file-as" refines="#artist">Gaulois, Paul</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
