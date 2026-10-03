@@ -204,8 +204,8 @@
 		<!-- Where the World is Quiet, May 1954 -->
 		<dc:source>https://www.gutenberg.org/ebooks/31207</dc:source>
 		<dc:source>https://archive.org/details/Fantastic_Universe_v01n06_1954-05</dc:source>
-		<meta property="schema:wordCount">108472</meta>
-		<meta property="schema:educationalLevel">78.14</meta>
+		<meta property="schema:wordCount">164151</meta>
+		<meta property="schema:educationalLevel">77.74</meta>
 		<link href="https://en.wikipedia.org/wiki/Henry_Kuttner#Partial_bibliography" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
