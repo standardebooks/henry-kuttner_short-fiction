@@ -64,6 +64,8 @@
 		<dc:subject id="subject-32">Earth (Planet)--Fiction</dc:subject>
 		<dc:subject id="subject-33">Bars (Drinking establishments)--Fiction</dc:subject>
 		<dc:subject id="subject-34">Peru--Fiction</dc:subject>
+		<dc:subject id="subject-35">Political fiction</dc:subject>
+		<dc:subject id="subject-36">Arlington National Cemetery (Arlington, Va.)--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
@@ -132,6 +134,10 @@
 		<meta property="term" refines="#subject-33">sh2007101895</meta>
 		<meta property="authority" refines="#subject-34">LCSH</meta>
 		<meta property="term" refines="#subject-34">sh2008116557</meta>
+		<meta property="authority" refines="#subject-35">LCSH</meta>
+		<meta property="term" refines="#subject-35">sh85104355</meta>
+		<meta property="authority" refines="#subject-36">LCSH</meta>
+		<meta property="term" refines="#subject-36">Unknown</meta>
 		<meta property="schema:genre">Horror</meta>
 		<meta property="schema:genre">Science Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
@@ -158,6 +164,9 @@
 		<!-- I, the Vampire, February 1937 -->
 		<dc:source>https://www.gutenberg.org/ebooks/79638</dc:source>
 		<dc:source>https://archive.org/details/WeirdTalesV29N02193702</dc:source>
+		<!-- We are the Dead, April 1937 -->
+		<dc:source>https://www.gutenberg.org/ebooks/76108</dc:source>
+		<dc:source>https://archive.org/details/WeirdTalesV29N05193705</dc:source>
 		<!-- The Salem Horror, May 1937 -->
 		<dc:source>https://www.gutenberg.org/ebooks/76108</dc:source>
 		<dc:source>https://archive.org/details/WeirdTalesV29N05193705</dc:source>
