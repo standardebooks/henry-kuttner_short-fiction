@@ -238,11 +238,11 @@
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-5">Distributed Proofreaders Canada</dc:contributor>
 		<meta property="file-as" refines="#transcriber-5">Distributed Proofreaders Canada</meta>
-		<link href="https://www.pgdpcanada.net/" refines="#transcriber-5" rel="schema:sameAs"/>
+		<link href="https://www.pgdpcanada.net/" refines="#transcriber-5" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-6">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-6">Distributed Proofreaders</meta>
-		<link href="https://www.pgdp.net/" refines="#transcriber-6" rel="schema:sameAs"/>
+		<link href="https://www.pgdp.net/" refines="#transcriber-6" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-7">Delphine Lettau</dc:contributor>
 		<meta property="file-as" refines="#transcriber-7">Lettau, Delphine</meta>
